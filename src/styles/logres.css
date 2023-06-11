@@ -6,6 +6,7 @@
   background: linear-gradient(to bottom, #9dba91, #8bbd75, #57754b);
   display: flex;
   justify-content: center;
+  align-items: center;
   flex-direction: column;
   border-radius: 15px;
   margin-top: 35px;
