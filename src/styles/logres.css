@@ -47,6 +47,7 @@
   cursor: pointer;
   justify-content: center;
   display: flex;
+  align-items: center;
 }
 
 .tombol:hover {
