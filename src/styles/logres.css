@@ -5,6 +5,7 @@
   font-family: "Jost", sans-serif;
   background: linear-gradient(to bottom, #9dba91, #8bbd75, #57754b);
   display: flex;
+  align-items: center;
   justify-content: center;
   flex-direction: column;
   border-radius: 15px;
