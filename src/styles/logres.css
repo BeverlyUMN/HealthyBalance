@@ -5,8 +5,8 @@
   font-family: "Jost", sans-serif;
   background: linear-gradient(to bottom, #9dba91, #8bbd75, #57754b);
   display: flex;
-  align-items: center;
   justify-content: center;
+  align-items: center;
   flex-direction: column;
   border-radius: 15px;
   margin: 0 auto;
@@ -38,13 +38,10 @@
   width: 40%;
   height: 40px;
   margin: 10px auto;
-  justify-content: center;
-  display: block;
   color: white;
   background: #718c66;
   font-size: 1em;
   font-weight: bold;
-  margin-top: bold;
   outline: none;
   border: none;
   border-radius: 5px;
