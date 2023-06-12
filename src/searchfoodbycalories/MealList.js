@@ -8,7 +8,7 @@ export default function MealList({ mealData }) {
   return (
     <main className="mainsearch">
       <section className="nutrients">
-        <h1 className="title">Healty Balance</h1>
+        <h1 className="title">Healthy Balance</h1>
         <ul className="balance">
           <li>Calories: {nutrients.calories.toFixed(0)}</li>
           <li>Carbohydrates: {nutrients.carbohydrates.toFixed(0)}</li>
